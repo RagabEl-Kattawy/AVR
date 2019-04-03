@@ -17,7 +17,7 @@ interrupt 2 Sense Control bit in MCUCSR
 ALL OTHER DEFINITIONS ARE FOR READABLILTY
 
 *DRIVER FUNCTIONS*
-DEI_mcrIntialize;
+DEI_mcrIntialize; 
 Enables the Global Interrupt in SREG
 
 DEI_vidINT0Enable();
